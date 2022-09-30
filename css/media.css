@@ -48,28 +48,28 @@
   }
   .feature__items {
     flex-direction: column;
-    width: 300px;
+    max-width: 300px;
     margin: auto;
   }
   .feature__item {
     margin-bottom: 40px;
-    width: 350px;
+    max-width: 350px;
   }
 
   .marketers__inner {
     background-image: none;
     margin: auto;
-    width: 500px;
+    max-width: 500px;
   }
   .validation__inner {
     background-image: none;
     margin: auto;
-    width: 500px;
+    max-width: 500px;
   }
   .managers__inner {
     background-image: none;
     margin: auto;
-    width: 500px;
+    max-width: 500px;
   }
   .footer__inner {
     display: grid;
